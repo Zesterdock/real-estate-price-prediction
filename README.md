@@ -86,11 +86,7 @@ Metrics used:
 
 ---
 
-## 📄 Flowchart
 
-![Project Flowchart](A_flowchart_illustration_depicts_a_rental_price_pr.png)
-
----
 
 ## 💬 Future Scope
 
